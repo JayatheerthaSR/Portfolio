@@ -11,6 +11,7 @@
 	width: 100%;
 	padding: 10px 10%;
 	display: flex;
+	
 	self-align: center;
 	background-color: #708599;
 }
@@ -40,8 +41,7 @@
 	overflow: visible;
 	padding: 1% 8%;
 	outline: none;
-	width: 5em;
-	/*color: #708599;*/
+	color: #708599;
 }
 
 .navbar-buttons{
